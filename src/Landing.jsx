@@ -1,4 +1,4 @@
-import logo from './BannerTTh.JPG';
+import './BannerTTh.JPG';
 import './App.css';
 
 
