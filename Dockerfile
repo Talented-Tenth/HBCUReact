@@ -24,7 +24,6 @@ COPY . .
 #expose the port in the docker container
 EXPOSE 3000
 
-RUN node seed.js
 
 # the command to start our app
 CMD [ "npm", "start" ]
