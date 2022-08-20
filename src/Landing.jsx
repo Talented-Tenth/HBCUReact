@@ -5,6 +5,7 @@ import './App.css';
 function Landing() {
   return (
     <div className="App">
+    
       <div class="card">
             <div class="sides left-side">
                 <h1 class="name">HBCU </h1>
