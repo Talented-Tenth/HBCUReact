@@ -8,13 +8,13 @@ function Landing() {
     
       <div class="card">
             <div class="sides left-side">
-                <h1 align="center" class="name">HBCU </h1>
-                <h3 align="center" class="School">Colleges  & </h3>
+                <h1 align="justify" class="name"> HBCU </h1>
+                <h3 align="justify" class="School">Historically Black</h3>
             </div>
                
             <div class="sides right-side">
-                <h1 class="name">NETWORK</h1>
-                <h3 class="School">Universities</h3>
+                <h1 align="justify" class="name">NETWORK</h1>
+                <h3 align="justify"class="School" nowrap>Colleges Universities</h3>
             </div> 
             <div class="back-side">
               <p class="biography"> THE TALENTED 10TH NETWORK"</p>
