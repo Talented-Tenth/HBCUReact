@@ -7,8 +7,8 @@ function Landing() {
     <div className="App">
       <div class="card">
             <div class="sides left-side">
-                <h1 class="name">HBCU </h1>
-                <h3 class="School">Colleges  & </h3>
+                <h1 align="center" class="name">HBCU </h1>
+                <h3 align="center" class="School">Colleges  & </h3>
             </div>
                
             <div class="sides right-side">
